@@ -1,61 +1,76 @@
-# 👋 Hi, I'm Nesh
+# 🚀 Nesh Macha
 
-🎓 Computer Science (Data Science) Student  
-📍 Malaysia  
-🚀 Aspiring Data Scientist | Future ML Engineer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🧠 About Me
-- 💡 Passionate about data, analytics, and machine learning
-- 📊 Currently building real-world data science projects
-- 🎯 Goal: Land an internship in Data Science / AI
-- 🧩 Strong interest in solving real-world problems using data
+🎓 Computer Science (Data Science) Student  
+📍 Malaysia  
+
+- 💡 Passionate about turning data into insights  
+- 📊 Currently building real-world data projects  
+- 🎯 Goal: Data Science / AI Internship  
+- ⚡ Always learning & improving  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-- Python
-- SQL
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
 
-### 📊 Data Analysis
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
+### 📊 Data Analysis  
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 
-### 🤖 Machine Learning
-- Regression
-- Classification
-- Model Evaluation
+### 🤖 Machine Learning  
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
 
-### 📈 Data Visualization
-- Power BI
+### 📈 Visualization  
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- Jupyter Notebook
-- Kaggle
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
 ---
 
-## 📂 Projects
-🔹 Coming soon... (actively building 🚧)
+## 📂 Featured Projects
+🚧 Coming Soon... (currently building 🚀)
 
 ---
 
-## 📈 Current Focus
-- 📊 Improving Data Analysis skills
-- 🤖 Learning Machine Learning deeper
-- 🏆 Building portfolio projects for internships
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150">
+</p>
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (add your link)
-- Email: (your email)
+## 📊 Current Focus
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning Projects  
+- 🏆 Building a strong portfolio  
 
 ---
 
-⭐ *"Turning data into meaningful insights."*
+## 🌐 Connect With Me
+<p>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I turn raw data into decisions 📊🔥
